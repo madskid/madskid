@@ -1,7 +1,7 @@
 
 
 
-<!-- ![Ahmad Wahid](https://github.com/ahmadwhet/ahmadwhet/assets/69287212/2472a77a-edb6-4b79-b8f0-af7575edda9a) -->
+<!-- ![Ahmad Wahid](https://github.com/madskid/madskid/assets/69287212/2472a77a-edb6-4b79-b8f0-af7575edda9a) -->
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
@@ -20,15 +20,15 @@
 
 - 📫 How to reach me **ahmadws18@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ahmadwhet.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://madskid.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/newtrisorry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadwhet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmadwhet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadwhet/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmadwhet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmadwhet" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmadwhet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmadwhet/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/ahmadwhet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/ahmadwhet" height="30" width="40" /></a>
+<a href="https://twitter.com/newtrisorry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madskid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madskid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madskid/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/madskid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madskid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/madskid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madskid/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/madskid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/madskid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,22 +39,22 @@
  
   <h2 align="center" ><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">Github Stats:</h2>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadwhet&theme=aura&show_icons=true&locale=en&layout=compact" alt="ahmadwhet" /></p>-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahmadwhet&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madskid&theme=aura&show_icons=true&locale=en&layout=compact" alt="madskid" /></p>-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=madskid&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
 
 <!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadwhet&&theme=aura" alt="ahmadwhet"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madskid&&theme=aura" alt="madskid"/></p>
 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadwhet&theme=aura&show_icons=true&locale=en" alt="ahmadwhet"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madskid&theme=aura&show_icons=true&locale=en" alt="madskid"/></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadwhet&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madskid&theme=aura) 
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ahmadwhet&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="ahmadwhet"" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=madskid&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="madskid"" />
 </p>
 
 <h2 align="center" >🏆 Github Trophies</h2>
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadwhet&theme=radical" alt="ahmadwhet" /></a></p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madskid&theme=radical" alt="madskid" /></a></p>
 
 
  <div align="center">
@@ -87,7 +87,7 @@
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahmadwhet/ahmadwhet/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/madskid/madskid/output/github-contribution-grid-snake-dark.svg" />
   
 </div>
 
