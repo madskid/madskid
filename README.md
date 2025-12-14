@@ -14,7 +14,6 @@
 
 
 <img align="right" alt="coding" width="400" src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif">
-<!-- <p align="left"> <a href="https://twitter.com/newtrisorry" target="blank"><img src="[https://img.shields.io/twitter/follow/newtrisorry?logo=twitter&style=for-the-badge]" alt="newtrisorry" /></a> </p> -->
 
 - 🌱 I’m currently exploring **Python and RouterOS**
 
@@ -39,7 +38,6 @@
  
   <h2 align="center" ><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">Github Stats:</h2>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madskid&theme=aura&show_icons=true&locale=en&layout=compact" alt="madskid" /></p>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=madskid&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
 
 <!--
@@ -52,10 +50,11 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=madskid&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="madskid"" />
 </p>
 
+<!--
 <h2 align="center" >🏆 Github Trophies</h2>
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madskid&theme=radical" alt="madskid" /></a></p>
-
+-->
 
  <div align="center">
     <img src="https://cultofthepartyparrot.com/flags/hd/indonesiaparrot.gif" width="30" height="30"/>
