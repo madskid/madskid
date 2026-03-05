@@ -32,23 +32,15 @@
 
  
   <h2 align="center" ><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">Github Stats:</h2>
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=madskid&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
--->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madskid&&theme=aura" alt="madskid"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madskid&theme=aura&show_icons=true&locale=en" alt="madskid"/></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madskid&theme=aura) 
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=madskid&layout=compact&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="madskid"" />
 </p>
 
-<!--
-<h2 align="center" >🏆 Github Trophies</h2>
-
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madskid&theme=radical" alt="madskid" /></a></p>
--->
 
  <div align="center">
     <img src="https://cultofthepartyparrot.com/flags/hd/indonesiaparrot.gif" width="30" height="30"/>
