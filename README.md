@@ -1,13 +1,8 @@
 
-
-
-<!-- ![Ahmad Wahid](https://github.com/madskid/madskid/assets/69287212/2472a77a-edb6-4b79-b8f0-af7575edda9a) -->
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Wahid!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h2>
 
 <h3 align="center">A passionate problem solver,hardworking and team-oriented person </h3>
@@ -37,9 +32,9 @@
 
  
   <h2 align="center" ><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">Github Stats:</h2>
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=madskid&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madskid&&theme=aura" alt="madskid"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madskid&theme=aura&show_icons=true&locale=en" alt="madskid"/></p>
