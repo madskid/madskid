@@ -4,6 +4,8 @@
 
 <p align="center">
     <a href="https://madskid.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+    <a href="https://linkedin.com/in/madskid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://twitter.com/newtrisorry"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://www.hackerrank.com/madskid"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
     <a href="https://www.leetcode.com/madskid/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
 </p>
@@ -23,14 +25,6 @@ A passionate problem solver, hardworking, and team-oriented person.
 - ⚡ Fun fact: I love solving crossword puzzles in my free time!
 
 <br clear="both">
-
----
-
-### 🚀 Featured Projects
-
-* **[MikroTikPatch](https://github.com/madskid/MikroTikPatch)** — A project featuring a custom web-based license generator and a dedicated releases page.
-
-*(Feel free to add more of your top repositories here!)*
 
 ---
 
@@ -75,10 +69,16 @@ A passionate problem solver, hardworking, and team-oriented person.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madskid&theme=aura&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madskid&theme=react-dark&hide_border=true&bg_color=151515" alt="Activity Graph" />
 </div>
 
 <br>
