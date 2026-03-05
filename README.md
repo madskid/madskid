@@ -4,10 +4,9 @@
 
 <p align="center">
     <a href="https://madskid.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
-    <a href="https://linkedin.com/in/madskid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/newtrisorry"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-    <a href="https://www.hackerrank.com/madskid"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
-    <a href="https://www.leetcode.com/madskid/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
+    <a href="mailto:pengepulbarangsimpanan@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
+    <a href="https://t.me/dsorden"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"></a>
+    
 </p>
 
 ---
@@ -21,7 +20,6 @@ A passionate problem solver, hardworking, and team-oriented person.
 - 🔭 I’m currently focused on **Networking Infrastructure, RouterOS, and System-Level Programming.**
 - 🌱 I’m currently exploring **Python, C, Assembly, and Reverse Engineering.**
 - ⚙️ I love playing with **Self-hosting, Docker, and Debian servers.**
-- 📫 How to reach me: **madlets@outlook.com**
 - ⚡ Fun fact: I love solving crossword puzzles in my free time!
 
 <br clear="both">
@@ -78,6 +76,12 @@ A passionate problem solver, hardworking, and team-oriented person.
 <br>
 
 <div align="center">
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=madskid&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madskid&theme=react-dark&hide_border=true&bg_color=151515" alt="Activity Graph" />
 </div>
 
@@ -102,5 +106,5 @@ A passionate problem solver, hardworking, and team-oriented person.
 <br>
 
 <div align="center">
-  <img alt="Visitor Count" src="https://profile-counter.glitch.me/madskid/count.svg" />
+  <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=madskid.madskid" />
 </div>
