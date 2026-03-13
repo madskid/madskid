@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Ludens+👋;Welcome+to+my+GitHub!;" alt="Typing Greeting" />
-</div>
+![madskid's GitHub Banner](https://raw.githubusercontent.com/madskid/madskid/main/banner.png)
 
 <p align="center">
     <a href="https://madskid.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
